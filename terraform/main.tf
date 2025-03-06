@@ -190,7 +190,7 @@ resource_group_name = azurerm_resource_group.rg.name
 short_name = "EmailAlerts"
 email_receiver {
 name = "email-alert"
-email_address = "loladevops@gmail.com"
+email_address = "calinightshift@gmail.com"
 use_common_alert_schema = true
 }
 }
